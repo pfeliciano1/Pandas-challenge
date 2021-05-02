@@ -1,4 +1,13 @@
 # Pandas-challenge
+
+PyCitySchools Analysis
+Based on the data analyzed, I observed that:
+
+* The Top Performing Schools in the District are Charter schools and the Bottom Performing Schools are District.
+* Schools that spend <$585 per student have better numbers in Math and Reading averages and better percent Passing.
+* Also, Small schools (<1000 students) outscore the Medium and Large Schools in all metrics mentioned previously.
+
+
 Pandas Homework - Pandas, Pandas, Pandas
 Background
 The data dive continues!

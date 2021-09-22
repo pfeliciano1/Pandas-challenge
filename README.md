@@ -1,5 +1,3 @@
-# Pandas-challenge
-
 # PyCitySchools Analysis
 Based on the data analyzed, I observed that:
 
